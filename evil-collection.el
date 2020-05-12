@@ -241,6 +241,7 @@ This will bind additional find-* type commands, e.g. usages, assignments, etc.."
     quickrun
     racer
     racket-describe
+    racket-mode
     realgud
     reftex
     restclient
